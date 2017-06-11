@@ -15,6 +15,6 @@ To build:
 
 ```sh
 . build/envsetup.sh
-lunch omni_A328-userdebug
+lunch omni_A328-eng
 make -j5 recoveryimage
 ```
